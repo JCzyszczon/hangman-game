@@ -9,7 +9,7 @@ The game uses local storage and session storage to save the current score of a p
 
 It also keeps track of which section in the game the player is in, so that after refreshing the page, the user does not have to go through the sections again.
 
-# Hangman Game - About Game
+# Hangman Game - About 
 Player can choose from three categories - titles, characters and proverbs. Each category has its own subcategories. For example, the category "title" - has 3 subcategories - titles of games, movies and series. The task is to guess the password.
 
 ![image](https://user-images.githubusercontent.com/77585732/187099916-0e6e98ca-3fcc-415d-b9a1-b9279c24ded0.png)
